@@ -26,6 +26,8 @@ body {
     font-size: 4rem;
   }
 
+    /* MYCODE */
+
   .emojis{
       display: grid;
       grid-template-columns: repeat(2, 417px);
