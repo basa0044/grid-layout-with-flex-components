@@ -1,8 +1,4 @@
 body {
-    background: url('../grid-flex-assignment.png') 3px 19px no-repeat;
-}
-
-body {
     font-family: Arial, Helvetica, sans-serif;
     color: #222;
   }
@@ -44,4 +40,8 @@ body {
   .icon{
       order: -1;
       align-self: center;
+  }
+
+  p{
+      flex-grow: 1;
   }
